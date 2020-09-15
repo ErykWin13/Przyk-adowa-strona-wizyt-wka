@@ -1,6 +1,6 @@
 Project description
 
-Simple website written in HTML and CSS during the course "Web developer od podstaw w 15 dni" on UDemy.
+Simple website written in HTML and CSS during the course "Web developer od podstaw w 15 dni" on Udemy.
 
 Project: Samuraj programowania
 Author : Samuraj programowania, Eryk Winnicki
