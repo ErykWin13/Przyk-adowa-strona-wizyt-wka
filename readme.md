@@ -1,8 +1,8 @@
-Opis projektu "Strona wizytówka z kursu Web developer od podstaw w 15 dni"
+Project description
 
-Jest to prosta strona wizytówka zaprojektowana przez Samuraja programowania oraz wykonana podczas kursu "Web developer od podstaw w 15 dni" przy pomocy prowadzącego kurs. Strona stworzona przy użyciu HTML oraz CSS.
+Simple website written in HTML and CSS during the course "Web developer od podstaw w 15 dni" on UDemy.
 
-Projekt: Samuraj programowania
-Twórca : Samuraj programowania, Eryk Winnicki
-Data: 12.03.20r.
-Technologie: HTML5, CSS
+Project: Samuraj programowania
+Author : Samuraj programowania, Eryk Winnicki
+Date: 12.03.20r.
+Technologies: HTML5, CSS
